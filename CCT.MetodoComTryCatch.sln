@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCT.MetodoComTryCatch.App", "CCT.MetodoComTryCatch.App\CCT.MetodoComTryCatch.App.csproj", "{4EFE2836-626E-42B1-B584-623E6F927044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCT.MetodoComTryCatch.UnitTest", "CCT.MetodoComTryCatch.UnitTest\CCT.MetodoComTryCatch.UnitTest.csproj", "{380C51E3-A916-4E45-8764-16FF725B8343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFE2836-626E-42B1-B584-623E6F927044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFE2836-626E-42B1-B584-623E6F927044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFE2836-626E-42B1-B584-623E6F927044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFE2836-626E-42B1-B584-623E6F927044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380C51E3-A916-4E45-8764-16FF725B8343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380C51E3-A916-4E45-8764-16FF725B8343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380C51E3-A916-4E45-8764-16FF725B8343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380C51E3-A916-4E45-8764-16FF725B8343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1B7765-6718-4245-AE11-C7006E0F81DA}
+	EndGlobalSection
+EndGlobal

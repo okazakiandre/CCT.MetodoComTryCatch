@@ -1,0 +1,28 @@
+﻿CCT - Métodos com try/catch
+============================
+
+- Como esse conhecimento te ajuda?
+  - muitos devs não acham que é um erro
+  - try/catch atrapalha quando usado do jeito errado
+  - aprender a usar do jeito certo
+
+- Mostrar código
+
+- Por que é um problema?
+  - pense no significado do termo "exception"
+  - o ponto do erro não fica claro
+  - "ajudar o debug" não é um bom motivo
+  - o que testar no try/catch?
+
+- Como resolver
+  - remova os try/catch desnecessários
+  - faça validações
+  - não dê catch de System.Exception
+  - limite os try/catch ao mínimo de linhas possível
+  - se precisar logar, use o middleware
+
+- Conclusão
+  - entenda os recursos da linguagem
+  - use para o propósito certo
+  - teste de unidade é um espelho do código
+  - código esquisito gera teste esquisito

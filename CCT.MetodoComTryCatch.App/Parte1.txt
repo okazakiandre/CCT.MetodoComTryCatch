@@ -1,0 +1,9 @@
+﻿CCT - Métodos com try/catch
+============================
+
+- Como esse conhecimento te ajuda?
+  - muitos devs não acham que é um erro
+  - try/catch atrapalha quando usado do jeito errado
+  - aprender a usar do jeito certo
+
+- Mostrar código
